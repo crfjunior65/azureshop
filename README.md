@@ -30,3 +30,4 @@ Não publique nem compartilhe `.env`, `terraform.tfvars`, estados Terraform, cha
 No modelo oficial do workshop, o Dia 1 cria RG, VNet, App Service, SQL, Private Endpoint e DNS pelo Portal. O Terraform do Dia 2 consulta esses recursos como dados e cria somente ACR, AKS e a conectividade nova em duas fases. Consulte [Bloqueios conhecidos e como resolver](docs/WORKSHOP.md#bloqueios-conhecidos-e-como-resolver) antes de executar um plano.
 
 Consulte também a [arquitetura de referência](docs/ARCHITECTURE.md).
+Teste de alteração
